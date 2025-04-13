@@ -1,2 +1,3 @@
-# azure_cognitive_search
- Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
+Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
+
+Primeiramente, criamos uma instância do Azure AI Search, uma instância do Azure AI Services e uma conta de armazenamento (Storage Account). Dentro da conta de armazenamento, criamos um container e alimentamos esse container com avaliações (reviews). Em seguida, estabelecemos uma conexão entre o Azure AI Search e a conta de armazenamento, permitindo a criação de uma pesquisa que retornará os resultados de uma consulta. Ou seja, utilizamos um serviço de busca, uma conta de armazenamento e um serviço de IA para automação.
